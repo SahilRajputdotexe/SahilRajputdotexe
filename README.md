@@ -8,7 +8,7 @@ I build backend services and data pipelines, mostly in Java (Spring Boot) and Py
 
 ### 🔧 Open source
 
-Pull requests I've sent to other projects (39 across 27 repositories).
+Pull requests I've sent to other projects (40 across 28 repositories).
 
 | Project | Contribution | Pull request |
 | --- | --- | --- |
@@ -39,6 +39,7 @@ Pull requests I've sent to other projects (39 across 27 repositories).
 | [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) | Group layer scale ranges, coverage and dimensions passed to child layers | [![#1489 open](https://img.shields.io/badge/%231489-open-238636?style=flat-square)](https://github.com/mapproxy/mapproxy/pull/1489) |
 | [uhop/stream-json](https://github.com/uhop/stream-json) | Extended and lossless number modes for assemblers | [![#223 open](https://img.shields.io/badge/%23223-open-238636?style=flat-square)](https://github.com/uhop/stream-json/pull/223) |
 | [stoplightio/spectral](https://github.com/stoplightio/spectral) | Overrides that target formats without files | [![#3081 open](https://img.shields.io/badge/%233081-open-238636?style=flat-square)](https://github.com/stoplightio/spectral/pull/3081) |
+| [konsoletyper/teavm](https://github.com/konsoletyper/teavm) | `Math.fma` and `StrictMath.fma` | [![#1270 open](https://img.shields.io/badge/%231270-open-238636?style=flat-square)](https://github.com/konsoletyper/teavm/pull/1270) |
 
 ---
 
