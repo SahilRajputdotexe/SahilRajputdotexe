@@ -8,7 +8,7 @@ I build backend services and data pipelines, mostly in Java (Spring Boot) and Py
 
 ### 🔧 Open source
 
-Pull requests I've sent to other projects (40 across 28 repositories).
+Pull requests I've sent to other projects (42 across 29 repositories).
 
 | Project | Contribution | Pull request |
 | --- | --- | --- |
@@ -39,7 +39,8 @@ Pull requests I've sent to other projects (40 across 28 repositories).
 | [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) | Group layer scale ranges, coverage and dimensions passed to child layers | [![#1489 open](https://img.shields.io/badge/%231489-open-238636?style=flat-square)](https://github.com/mapproxy/mapproxy/pull/1489) |
 | [uhop/stream-json](https://github.com/uhop/stream-json) | Extended and lossless number modes for assemblers | [![#223 open](https://img.shields.io/badge/%23223-open-238636?style=flat-square)](https://github.com/uhop/stream-json/pull/223) |
 | [stoplightio/spectral](https://github.com/stoplightio/spectral) | Overrides that target formats without files | [![#3081 open](https://img.shields.io/badge/%233081-open-238636?style=flat-square)](https://github.com/stoplightio/spectral/pull/3081) |
-| [konsoletyper/teavm](https://github.com/konsoletyper/teavm) | `Math.fma` and `StrictMath.fma` | [![#1270 open](https://img.shields.io/badge/%231270-open-238636?style=flat-square)](https://github.com/konsoletyper/teavm/pull/1270) |
+| [konsoletyper/teavm](https://github.com/konsoletyper/teavm) | `Math.fma`, and a `Math.scalb` overflow fix | [![#1270 open](https://img.shields.io/badge/%231270-open-238636?style=flat-square)](https://github.com/konsoletyper/teavm/pull/1270) [![#1272 open](https://img.shields.io/badge/%231272-open-238636?style=flat-square)](https://github.com/konsoletyper/teavm/pull/1272) |
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | Join sides no longer depend on ON clause order | [![#4189 open](https://img.shields.io/badge/%234189-open-238636?style=flat-square)](https://github.com/lf-edge/ekuiper/pull/4189) |
 
 ---
 
