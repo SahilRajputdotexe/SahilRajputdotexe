@@ -8,7 +8,7 @@ I build backend services and data pipelines, mostly in Java (Spring Boot) and Py
 
 ### 🔧 Open source
 
-Pull requests I've sent to other projects (42 across 29 repositories).
+Pull requests I've sent to other projects (45 across 32 repositories).
 
 | Project | Contribution | Pull request |
 | --- | --- | --- |
@@ -41,6 +41,9 @@ Pull requests I've sent to other projects (42 across 29 repositories).
 | [stoplightio/spectral](https://github.com/stoplightio/spectral) | Overrides that target formats without files | [![#3081 open](https://img.shields.io/badge/%233081-open-238636?style=flat-square)](https://github.com/stoplightio/spectral/pull/3081) |
 | [konsoletyper/teavm](https://github.com/konsoletyper/teavm) | `Math.fma`, and a `Math.scalb` overflow fix | [![#1270 open](https://img.shields.io/badge/%231270-open-238636?style=flat-square)](https://github.com/konsoletyper/teavm/pull/1270) [![#1272 merged](https://img.shields.io/badge/%231272-merged-8250df?style=flat-square)](https://github.com/konsoletyper/teavm/pull/1272) |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | Join sides no longer depend on ON clause order | [![#4189 open](https://img.shields.io/badge/%234189-open-238636?style=flat-square)](https://github.com/lf-edge/ekuiper/pull/4189) |
+| [protofire/solhint](https://github.com/protofire/solhint) | `imports-order` autofix keeps import aliases | [![#803 open](https://img.shields.io/badge/%23803-open-238636?style=flat-square)](https://github.com/protofire/solhint/pull/803) |
+| [olebedev/when](https://github.com/olebedev/when) | Relative months carry over into the next year | [![#53 open](https://img.shields.io/badge/%2353-open-238636?style=flat-square)](https://github.com/olebedev/when/pull/53) |
+| [canopen-python/canopen](https://github.com/canopen-python/canopen) | Race in `wait_for_bootup` when a heartbeat follows the boot-up | [![#681 open](https://img.shields.io/badge/%23681-open-238636?style=flat-square)](https://github.com/canopen-python/canopen/pull/681) |
 
 ---
 
