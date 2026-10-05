@@ -8,7 +8,7 @@ I build backend services and data pipelines, mostly in Java (Spring Boot) and Py
 
 ### 🔧 Open source
 
-Pull requests I've sent to other projects (46 across 32 repositories).
+Pull requests I've sent to other projects (47 across 32 repositories).
 
 | Project | Contribution | Pull request |
 | --- | --- | --- |
@@ -40,7 +40,7 @@ Pull requests I've sent to other projects (46 across 32 repositories).
 | [uhop/stream-json](https://github.com/uhop/stream-json) | Extended and lossless number modes for assemblers | [![#223 open](https://img.shields.io/badge/%23223-open-238636?style=flat-square)](https://github.com/uhop/stream-json/pull/223) |
 | [stoplightio/spectral](https://github.com/stoplightio/spectral) | Overrides that target formats without files | [![#3081 open](https://img.shields.io/badge/%233081-open-238636?style=flat-square)](https://github.com/stoplightio/spectral/pull/3081) |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | Join sides no longer depend on ON clause order | [![#4189 open](https://img.shields.io/badge/%234189-open-238636?style=flat-square)](https://github.com/lf-edge/ekuiper/pull/4189) |
-| [protofire/solhint](https://github.com/protofire/solhint) | `imports-order` autofix keeps import aliases | [![#803 open](https://img.shields.io/badge/%23803-open-238636?style=flat-square)](https://github.com/protofire/solhint/pull/803) |
+| [protofire/solhint](https://github.com/protofire/solhint) | Autofix fixes for import aliases in `imports-order` and `no-unused-import` | [![#803 open](https://img.shields.io/badge/%23803-open-238636?style=flat-square)](https://github.com/protofire/solhint/pull/803) [![#807 open](https://img.shields.io/badge/%23807-open-238636?style=flat-square)](https://github.com/protofire/solhint/pull/807) |
 | [olebedev/when](https://github.com/olebedev/when) | Relative months carry over into the next year | [![#53 open](https://img.shields.io/badge/%2353-open-238636?style=flat-square)](https://github.com/olebedev/when/pull/53) |
 | [canopen-python/canopen](https://github.com/canopen-python/canopen) | Race in `wait_for_bootup` when a heartbeat follows the boot-up | [![#681 open](https://img.shields.io/badge/%23681-open-238636?style=flat-square)](https://github.com/canopen-python/canopen/pull/681) |
 | [ogen-go/ogen](https://github.com/ogen-go/ogen) | Security handling for webhook servers and clients | [![#1771 open](https://img.shields.io/badge/%231771-open-238636?style=flat-square)](https://github.com/ogen-go/ogen/pull/1771) |
