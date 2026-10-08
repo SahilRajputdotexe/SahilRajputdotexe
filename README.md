@@ -8,7 +8,7 @@ I build backend services and data pipelines, mostly in Java (Spring Boot) and Py
 
 ### 🔧 Open source
 
-Pull requests I've sent to other projects (49 across 32 repositories).
+Pull requests I've sent to other projects (50 across 33 repositories).
 
 | Project | Contribution | Pull request |
 | --- | --- | --- |
@@ -44,6 +44,7 @@ Pull requests I've sent to other projects (49 across 32 repositories).
 | [olebedev/when](https://github.com/olebedev/when) | Relative months carry over into the next year | [![#53 open](https://img.shields.io/badge/%2353-open-238636?style=flat-square)](https://github.com/olebedev/when/pull/53) |
 | [canopen-python/canopen](https://github.com/canopen-python/canopen) | Race in `wait_for_bootup` when a heartbeat follows the boot-up | [![#681 open](https://img.shields.io/badge/%23681-open-238636?style=flat-square)](https://github.com/canopen-python/canopen/pull/681) |
 | [ogen-go/ogen](https://github.com/ogen-go/ogen) | Security handling for webhook servers and clients | [![#1771 open](https://img.shields.io/badge/%231771-open-238636?style=flat-square)](https://github.com/ogen-go/ogen/pull/1771) |
+| [veryl-lang/veryl](https://github.com/veryl-lang/veryl) | Modport `..same`/`..converse` targets declared later in the interface | [![#3518 open](https://img.shields.io/badge/%233518-open-238636?style=flat-square)](https://github.com/veryl-lang/veryl/pull/3518) |
 
 ---
 
